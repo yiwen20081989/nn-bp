@@ -1,3 +1,4 @@
+运行环境：win10 python 3.6.5 matplotlib 2.2.2 numpy 1.18.5 sklearn 0.23.2
 # nn-bp
 基于后向梯度算法构建全连接神经网络，以数字验证码图像数据集进行测试。
 BP算法
